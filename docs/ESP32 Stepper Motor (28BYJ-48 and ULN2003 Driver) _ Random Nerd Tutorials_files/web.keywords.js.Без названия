@@ -1,0 +1,5 @@
+
+        window.$adManagementConfig = window.$adManagementConfig || {};
+        window.$adManagementConfig.web = window.$adManagementConfig.web || {};
+        window.$adManagementConfig.web.keywords = {"status":"PROCESSED","sales_kw":"esp32 stepper motor,uln2003 driver,step,in3,revolution,in1 control,in4,internal coil,in2,number,tutorial,library,code,time,arduino ide","sales_cat":"596,631,599,600,601,602","sales_safety":"GGT0"};
+      
