@@ -30,7 +30,7 @@ void setup() {
 }
 
 void loop() {
-  Serial.print("Введите скорость(0-17):");
+  Serial.print("Введите скорость(1-15):");
   String received_string=Serial.readStringUntil('\n');     
   int speed=received_string.toInt();    
   Serial.println(speed);
